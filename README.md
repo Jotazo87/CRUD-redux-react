@@ -12,8 +12,10 @@ Si quieres seguir el tutorial desde el minuto `24:35` haz lo siguiente:
 1. Sigue los pasos del [Getting started](https://npm.tremor.so/docs/getting-started/installation) de `Tremor`
 
 2. En el tag `initial-table` del repo dejo lo siguente:
+
     1. `src/components/ListOfUsers.tsx`. Aquí está el componente de la tabla que usé para poder iniciar porque, el bloque de la tabla que se utiliza en el tutorial, no aparece, o por lo menos yo no lo ví.
-        > [!NOTE]
-        > No elimines las clases que vienen indicadas en la tabla
 
     2. `src/componentes/icons/*`. Dejo los iconos que están en `ListOfUsers.tsx` en los botones de accion que tiene la tabla
+
+> [!NOTE]
+> No elimines las clases que vienen indicadas en la tabla

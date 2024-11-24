@@ -68,7 +68,7 @@ export default function ListOfUsers() {
                 {" "}
                 <img
                   src={`https://unavatar.io/github/${item.github}`}
-                  className="w-8 h-8"
+                  className="w-8 h-8 rounded-[50%]"
                 />
                 {item.name}
               </TableCell>
